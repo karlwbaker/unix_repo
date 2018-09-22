@@ -1,3 +1,4 @@
 unix snippets repo
 add my shell scripts
-This line added in the update_readme branch.
+This line added, with later transmogrification, in the update_readme branch.
+And now I've added a new line as well.
