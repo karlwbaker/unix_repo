@@ -1,5 +1,8 @@
-1. unix snippets repo
-1. add my shell scripts
-1. This line added, with later transmogrification, in the update_readme branch.
-1. And now I've added a new line here in master as well.
-1. Change to push to update_readme branch on GitHub.
+# UNIX/Linux/bash
+My personal notes from using bash on Windows 10 and Ubuntu 18.04.
+- Commands
+- Scripts
+- Annotated man pages
+- Snippets and examples
+
+Click [here](https://github.com/karlwbaker/unix_repo)
